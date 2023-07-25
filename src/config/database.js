@@ -1,9 +1,10 @@
 module.exports = {
     dialect: 'mysql',
-    host: 'localhost',
-    username: 'root',
-    password: '',
-    database: 'prime2b',
+    host: 'prime2b-teste-do-user-14421398-0.b.db.ondigitalocean.com',
+    port: '25060',
+    username: 'doadmin',
+    password: 'AVNS_2vZ2uA5BKAD-d1M_7px',
+    database: 'defaultdb',
     define: {
         timestamps: true,
         underscored: true,
