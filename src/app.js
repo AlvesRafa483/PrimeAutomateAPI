@@ -18,7 +18,7 @@ const rotasBot = require('./routes/bot');
 
 // Configuracao do middleware cors
 var corsOptions = {
-    origin: 'http://localhost:5173',
+    origin: '*',
     optionsSuccessStatus: 200
 }
 
